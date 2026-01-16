@@ -1,0 +1,31 @@
+{
+    "name": "Mboka Yangu - Kenya's Top Job Marketplace",
+    "short_name": "Mboka Yangu",
+    "description": "Connect with skilled freelancers across Kenya. From plumbing to tech, find vetted professionals for any job.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0d9488",
+    "orientation": "portrait",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "/media/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "business",
+        "productivity",
+        "lifestyle"
+    ],
+    "screenshots": [
+        {
+            "src": "/media/screenshot-1.png",
+            "sizes": "540x720",
+            "type": "image/png"
+        }
+    ]
+}
