@@ -1,12 +1,12 @@
 const CACHE_NAME = 'mboka-yangu-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/media/logo.png',
-  '/media/logo.gif',
-  '/media/advert.jpg',
-  '/media/flags/uk.png',
-  '/media/flags/kenya.png'
+  './',
+  'index.html',
+  'media/logo.png',
+  'media/logo.gif',
+  'media/advert.jpg',
+  'media/flags/uk.png',
+  'media/flags/kenya.png'
 ];
 
 // Install event - cache assets
